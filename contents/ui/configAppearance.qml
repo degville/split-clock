@@ -51,7 +51,7 @@ SimpleKCM {
             QQC2.CheckBox {
                 id: showDate
                 text: i18n("Show date")
-                enabled: !splitIfVertical.checked
+                enabled: splitIfVertical.checked
             }
 
             QQC2.ComboBox {

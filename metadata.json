@@ -5,8 +5,8 @@
                 "Name": "Abhijit Bhopatkar"
             }
         ],
-        "Name": "split-clock",
-        "Id": "split-clock",
+        "Name": "split-clock-gm",
+        "Id": "split-clock-gm",
         "Description": "Plasmoid showing current date and clock split text for vertical panels",
         "Category": "Utilities",
         "Icon": "clock",
